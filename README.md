@@ -1,5 +1,15 @@
 # 24_AI
 
+2024
+Validated tell me the story of Red Ridinghood, then in the syle of: Trump, Margret Thatcher 
+Validated on AWS_event2024 use of Bedrock with with LLM agents (Llama), EC2 instrance and S3 data with US Fedreal quarter docs (Modality-Text Input Output)
+Validated with Krystyna: Drawn a Spitfire over Dover on a sunny day with flying pigs
+Validated Expert on Automation Testing with programming domain knowledge: Redo this project using Python language bings instead of Java
+Validated Expert on Automation Testing with programming domain knowledge: Redo this project using Page Object Model (return library of 'clickable objects' and 'latency parameterisation')
+Validate Expert pension and Tax domain Krystyna
+Validate Expert medical domain knowledge Emily
+Validate Expert aeronaughtical domain Jamie
+
 CH24 Validate AI using AWS_Bedrock with with LLM agents (Llama: as per AWS event day 2024)	
 						 Verify Review of https://d1.awsstatic.com/psc-digital/2024/gc-a4ind/gen-ai-mi-ebook/future-of-manufacturing-with-generative-AI.pdf
 						 Verify Review of https://pages.awscloud.com/global-ln-gc-a4ind-gen-ai-mi-ebook-confirmation.html?gc-language=en-gb&aliId=eyJpIjoiTEFFK1NRRVwvWVpZbDJmTlQiLCJ0IjoiQndoR0RROGt4SlB3MTB6THlnTyt4dz09In0%253D
@@ -21,3 +31,6 @@ CH24 Validate ChatBots:
 							Verify use of Chat GPT 			
 							Verify use of Gemani										https://genai.works/applications/gemini-ai-lulg22vk
 							Verify use of Wand    									https://genai.works/applications/wand-ai
+
+2025
+
